@@ -9,5 +9,5 @@ Este é um projeto desenvolvido em React que permite gerenciar uma lista de func
 
 ## Como rodar o projeto
 - <b>Clone o repositório:</b> git clone https://github.com/juanphf/Lista-de-funcionarios.git
-- <b>Instale as dependências:<b> npm install
-- <b>Inicie o projeto:<b> npm run dev
+- <b>Instale as dependências:</b> npm install
+- <b>Inicie o projeto:</b> npm run dev
