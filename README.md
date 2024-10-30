@@ -8,6 +8,6 @@ Este é um projeto desenvolvido em React que permite gerenciar uma lista de func
 <li> Salvamento local das alterações (utilizando o local storage do navegador).</li>
 
 ## Como rodar o projeto
-- Clone o repositório: git clone https://github.com/juanphf/Lista-de-funcionarios.git
-- Instale as dependências: npm install
-- Inicie o projeto: npm run dev
+- <b>Clone o repositório:<b> git clone https://github.com/juanphf/Lista-de-funcionarios.git
+- <b>Instale as dependências:<b> npm install
+- <b>Inicie o projeto:<b> npm run dev
